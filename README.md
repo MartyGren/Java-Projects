@@ -4,8 +4,8 @@ To implement the ceiling fan we can create a class CeilingFan that maintains the
 
 Attributes:
 
-`speed`: An integer representing the current speed of the fan (0 to 3).
-`isReversed`: A boolean representing the current direction of the fan.
+`speed`: An integer representing the current speed of the fan (0 to 3).\n
+`isReversed`: A boolean representing the current direction of the fan.\n
 
 Constructor:
 
